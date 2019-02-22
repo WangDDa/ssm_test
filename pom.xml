@@ -20,6 +20,7 @@
     <spring.security.version>5.0.1.RELEASE</spring.security.version>
   </properties>
 
+  <!-- 007更改注释了 -->
   <!-- 锁定jar包版本 -->
   <dependencyManagement>
     <dependencies>
