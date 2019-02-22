@@ -27,5 +27,6 @@ public class testItems {
         public void testService(){
             Items byId = itemsService.findById(1);
             System.out.println("byId = " + byId);
+			System.out.println("greenwang") ;
         }
 }
